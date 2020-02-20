@@ -1,0 +1,1 @@
+Purpose: to deconstruct an existing webpage, rebuild it, and to practice "building" something in HTML.
